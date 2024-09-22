@@ -1,0 +1,27 @@
+body{
+
+    width: 100pc;
+    height: 100pc;
+    background-color: aqua;
+
+}
+
+#box_container{
+
+margin-top: 10px;
+display: flex;
+justify-content: space-evenly;
+    
+}
+
+.size_container1{
+
+    width: 500px;
+    border: 2px solild red;
+}
+
+.size_container{
+
+    width: 500px;
+    border: 2px solild red;
+}
